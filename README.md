@@ -1,5 +1,7 @@
 # storybook-example
 
+![storybook-example](https://user-images.githubusercontent.com/720669/96581955-e63f2300-12da-11eb-9963-f41c6f7cfb5a.jpg)
+
 ## Project setup
 ```
 npm install
