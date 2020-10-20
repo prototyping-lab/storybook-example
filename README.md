@@ -1,6 +1,6 @@
 # storybook-example
 
-![storybook-example](https://user-images.githubusercontent.com/720669/96581955-e63f2300-12da-11eb-9963-f41c6f7cfb5a.jpg)
+![storybook-example](https://user-images.githubusercontent.com/720669/96582373-7b421c00-12db-11eb-8caa-ac931f267522.jpg)
 
 ## Project setup
 ```
