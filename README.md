@@ -4,6 +4,11 @@
 ```
 npm install
 ```
+## Show Storybook
+
+```
+npm run storybook
+```
 
 ### Compiles and hot-reloads for development
 ```
